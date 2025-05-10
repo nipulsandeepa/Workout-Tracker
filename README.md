@@ -1,16 +1,39 @@
-# exam2
+# 📱 My Flutter Firebase App
 
-A new Flutter project.
+A mobile application built with **Flutter** and integrated with **Firebase** for backend services such as authentication, database.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Flutter-based cross-platform mobile UI
+  - Add, View, and track workouts
+  - Set reminders for each medicine
+  - Track workout history with dates
+  - User authentication (Google Sign-In)
+  - Intuitive UI with Material Design
+- Firebase integration:
+  - 🔐 Authentication
+  - ☁️ Firestore / Realtime Database
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter (Dart)
+- Firebase SDKs
+- State Management: (e.g. Provider, Riverpod, Bloc) *(if applicable)*
+- GitHub for version control
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Installation
+
+### Prerequisites
+
+- Flutter SDK (https://flutter.dev/docs/get-started/install)
+- Firebase CLI *(for some advanced features, optional)*
+- Android Studio or VS Code
+- A connected Firebase project
+
+### Steps
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/nipulsandeepa/Workout-Tracker.git
+   cd Workout-Tracker 
