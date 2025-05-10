@@ -1,6 +1,6 @@
-# 📱 My Flutter Firebase App
+# 📱 My Flutter Firebase Workout Tracker App
 
-A mobile application built with **Flutter** and integrated with **Firebase** for backend services such as authentication, database.
+A mobile application built with **Flutter** and integrated with **Firebase** for tracking workouts.
 
 ## 🚀 Features
 
@@ -10,6 +10,7 @@ A mobile application built with **Flutter** and integrated with **Firebase** for
   - Track workout history with dates
   - User authentication (Google Sign-In)
   - Intuitive UI with Material Design
+    
 - Firebase integration:
   - 🔐 Authentication
   - ☁️ Firestore / Realtime Database
